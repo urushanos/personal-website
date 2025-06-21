@@ -1,0 +1,10 @@
+body{
+    margin-bottom: 1000px;
+    padding-top: 60px;
+    background-color: rgb(202, 240, 248);
+    font-family: Source Code Pro, Arial;
+}
+
+p{
+    padding: 10px;
+}
